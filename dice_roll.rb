@@ -10,4 +10,4 @@ end
 def roll
   arr = *(1..6)
   return arr[rand(0..6)]
-end 
+end
